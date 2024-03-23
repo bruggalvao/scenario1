@@ -1,4 +1,4 @@
 public class Principal {
     public String nome;
-    public String sobrenome;
+    public String usuario;
 }
